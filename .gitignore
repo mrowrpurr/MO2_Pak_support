@@ -1,0 +1,6 @@
+.xmake
+build
+compile_commands
+
+__pycache__
+*.py[cod]
