@@ -1,2 +1,5 @@
-# MO2_Pak_support
-.pak support for UE modding in MO2
+_Wait, hold on, I'm working on things here!_
+
+## LICENSE
+
+_None, yet!_
